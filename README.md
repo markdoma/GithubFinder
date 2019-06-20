@@ -1,2 +1,0 @@
-# GithubFinder
-Created with CodeSandbox
